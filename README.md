@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 ![](https://komarev.com/ghpvc/?username=ISHAAN1091)
 
-|<img src="https://github-readme-stats.vercel.app/api?username=mrpkdeveloper&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpkdeveloper"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=ISHAAN1091&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHAAN1091"/>|
 |---|---|
