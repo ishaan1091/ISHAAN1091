@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <h2> Hi there, I am Ishaan Kamra <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50"></h2>
  <img align='right' src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="250"> 
  
-🏫 I am a sophomore pursuing my Bachelors in Mathematics and Computer Science from Delhi Technological University.
+🏫 I am a final year student pursuing my Bachelors in Mathematics and Computer Science from Delhi Technological University.
+Currently I am interning at Sprinklr. 
+I have previously interned at Wells Fargo and few startups as well🙌.
 
 
 <br>
